@@ -24,9 +24,9 @@ const lines = [
   { type: 'out',  text: '<span class="t-label">Interests</span> <span class="t-val">Software Development &middot; Cloud Computing &middot; Networks & Systems</span>' },
   { type: 'out',  text: '<span class="t-label">Education</span> <span class="t-val">B.E. CS &middot; Cornell M.Eng.</span>' },
   { type: 'out',  text: '<span class="t-label">Research</span> <a class="t-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901478" target="_blank">Swarm Robotics &middot; SSRN Elsevier ↗</a>' },
-  { type: 'out',  text: '<span class="t-label">Location &nbsp;</span> <span class="t-val">Open to Bay Area &amp; NYC</span>' },
+  { type: 'out',  text: '<span class="t-label">Location &nbsp;</span> <span class="t-val">Bay Area</span>' },
   { type: 'cmd',  text: 'status.txt' },
-  { type: 'out',  text: '<span class="t-green">Graduating May 2026</span>' },
+  { type: 'out',  text: '<span class="t-green">Aspiring Software Engineer graduating in May 2026</span>' },
 ];
 
 const terminalBody = document.getElementById('terminalBody');
