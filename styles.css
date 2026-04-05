@@ -394,7 +394,6 @@ section.visible { opacity: 1; transform: translateY(0); }
   transition: border-color 0.25s, color 0.25s, background 0.25s;
 }
 .contact-link:hover { border-color: var(--blue); color: var(--cream); background: rgba(184,212,238,0.1); }
-.contact-link.primary { background: rgba(184,212,238,0.12); border-color: rgba(184,212,238,0.4); color: var(--cream); }
 
 /* ── FOOTER ── */
 footer {
