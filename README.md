@@ -18,12 +18,12 @@ Spent a year deep in cloud infrastructure at one of the largest shipping compani
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**ConnectAbility**](#) | Combines ViT and LLaMA to help people with visual or cognitive disabilities navigate digital content more independently | Python · ViT · LLaMA |
-| [**Spam Back!**](#) | A macOS app that uses a locally-run LLaMA-3 model to reply to scammers and waste their time. Completely on-device — no cloud, no data leaving your machine | Swift · LLaMA-3 |
-| [**SereneSpace**](#) | A mental wellness app I built end-to-end — journaling, mood tracking, a REST API, and a frontend I actually wanted to look at | MongoDB · Express · React · Node.js |
-| [**LLM Code Security Research**](#) | Studied how different prompting strategies affect the security of code that LLMs generate. Short version: few-shot helps, and the newest models are surprisingly easy to manipulate | Python · Claude · GPT · CWEval |
-| [**Heart Disease Classifier**](#) | An ML model for predicting cardiac risk — built with interpretability as a core requirement, not an afterthought | Python · Scikit-learn |
-| [**TurnNLearn**](#) | A flashcard and quiz app with reverse-card mode and multiple subject tracks. Fully deployed | HTML · CSS · JavaScript |
+| [**ConnectAbility**](https://github.com/SanjanaJanardhan/ConnectAbility) | Combines ViT and LLaMA to help people with visual or cognitive disabilities navigate digital content more independently | Python · ViT · LLaMA |
+| [**Spam Back!**](https://github.com/SanjanaJanardhan/SpamBack) | A macOS app that uses a locally-run LLaMA-3 model to reply to scammers and waste their time. Completely on-device — no cloud, no data leaving your machine | Swift · LLaMA-3 |
+| [**SereneSpace**](https://github.com/SanjanaJanardhan/SereneSpace) | A mental wellness app I built end-to-end — journaling, mood tracking, a REST API, and a frontend I actually wanted to look at | MongoDB · Express · React · Node.js |
+| [**LLM Code Security Research**](https://github.com/SanjanaJanardhan/LLMCodeSecurity) | Studied how different prompting strategies affect the security of code that LLMs generate. Short version: few-shot helps, and the newest models are surprisingly easy to manipulate | Python · Claude · GPT · CWEval |
+| [**Heart Disease Classifier**](https://github.com/SanjanaJanardhan/HeartDiseaseClassifier) | An ML model for predicting cardiac risk — built with interpretability as a core requirement, not an afterthought | Python · Scikit-learn |
+| [**TurnNLearn**](https://github.com/SanjanaJanardhan/FlashcardLearningSystem) | A flashcard and quiz app with reverse-card mode and multiple subject tracks. Fully deployed | HTML · CSS · JavaScript |
 
 ---
 
